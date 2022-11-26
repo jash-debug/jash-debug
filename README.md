@@ -1,9 +1,9 @@
 # jash-debug.github.io
 ---
-
+![](https://komarev.com/ghpvc/?username=jash-debug&label=PROFILE+VIEWS)
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Najash</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+<h4 align="center">Full-Stack developer student at Microverse and also a Software Engineer from United States International university - Africa</h4>
 </div>
 
 <div align="center">
@@ -11,6 +11,35 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
+<div align="center">
+  <h1>
+  Skills 🔥
+</h1>
+<img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,sass,js,vscode,webpack" />
+  </div>
+  
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/jash-debug/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jash-debug&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="jash-debug :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/jash-debug/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jash-debug&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jash-debug&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+
+  <br/>
+  <h2 align="center"> my current activity </h2>
+<a href="https://github.com/jash-debug/github-readme-activity-graph"><img alt="jash-debug's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=jash-debug&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+
 
 <details>
   <summary>☎️ contact me</summary>
@@ -46,29 +75,6 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  <a href="github.com/jash-debug" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/jash-debug/jash-debug?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/jash-debug" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/jash-debug/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/jash-debug" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/jash-debug/jash-debug?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/jash-debug" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/jash-debug/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
-</div>
-</details>
-
-<details>
   <summary>🌏 global</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
@@ -76,31 +82,8 @@
 
 </details>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/jash-debug/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jash-debug&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="jash-debug :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/jash-debug/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jash-debug&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jash-debug&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/jash-debug/github-readme-activity-graph"><img alt="jash-debug's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=jash-debug&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+  
 
 ------
 Credit: [1999azzar](https://github.com/1999azzar)
