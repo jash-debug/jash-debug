@@ -1,6 +1,7 @@
 # jash-debug.github.io
 ---
 ![](https://komarev.com/ghpvc/?username=jash-debug&label=PROFILE+VIEWS)
+
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Najash</h1>
 <h4 align="center">Full-Stack developer student at Microverse and also a Software Engineer from United States International university - Africa</h4>
@@ -25,7 +26,8 @@
       <br/>
         <p align="center">
           <a href="https://github.com/jash-debug/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jash-debug&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="jash-debug :: Top Langs" /></a>
+          <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jash-debug&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="jash-debug :: Top Langs" /></a>
+          
         </p>
         <p align="center">
           <a href="https://github.com/jash-debug/">
