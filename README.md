@@ -27,8 +27,7 @@
         <p align="center">
           <a href="https://github.com/jash-debug/">
           <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jash-debug&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="jash-debug :: Top Langs" /></a>
-          
-        </p>
+          </p>
         <p align="center">
           <a href="https://github.com/jash-debug/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jash-debug&show_icons=true&theme=gruvbox&hide_border=true" />
