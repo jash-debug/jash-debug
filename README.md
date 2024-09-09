@@ -9,8 +9,25 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+ <svg width="1000" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Snake body -->
+  <circle cx="10" cy="50" r="3" fill="green">
+    <animate attributeName="cx" values="10; 90; 10" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="20" cy="50" r="3" fill="green">
+    <animate attributeName="cx" values="20; 100; 20" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="30" cy="50" r="3" fill="green">
+    <animate attributeName="cx" values="30; 110; 30" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="40" cy="50" r="3" fill="green">
+    <animate attributeName="cx" values="40; 120; 40" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="50" cy="50" r="3" fill="green">
+    <animate attributeName="cx" values="50; 130; 50" dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
+</a>
 </div>
 
 
