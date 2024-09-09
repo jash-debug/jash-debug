@@ -39,11 +39,13 @@
 </div>    
 
 ---
-
 <h2 align="center">📈 My Current Activity</h2>
-<a href="https://github.com/jash-debug/github-readme-activity-graph">
-  <img alt="jash-debug's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=jash-debug&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-</a>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jash-debug&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true">
+</p>
+
+
 
 ---
 
@@ -88,5 +90,3 @@
 </details>
 
 ---
-
-Credit: [1999azzar](https://github.com/1999azzar)
