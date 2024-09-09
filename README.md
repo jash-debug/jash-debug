@@ -4,31 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=jash-debug&label=PROFILE+VIEWS)
 
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Najash</h1>
+  <h1 align="center">Hi 👋, I'm Najash</h1>
   <h4 align="center">Full-Stack developer student at Microverse and also a Software Engineer from United States International University - Africa</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <svg width="1000" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-      <!-- Snake body -->
-      <circle cx="10" cy="50" r="3" fill="green">
-        <animate attributeName="cx" values="10; 90; 10" dur="5s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="20" cy="50" r="3" fill="green">
-        <animate attributeName="cx" values="20; 100; 20" dur="5s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="30" cy="50" r="3" fill="green">
-        <animate attributeName="cx" values="30; 110; 30" dur="5s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="40" cy="50" r="3" fill="green">
-        <animate attributeName="cx" values="40; 120; 40" dur="5s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="50" cy="50" r="3" fill="green">
-        <animate attributeName="cx" values="50; 130; 50" dur="5s" repeatCount="indefinite" />
-      </circle>
-    </svg>
-  </a>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FvdDR1bHRvbXF0enAwMHc2MHk1N3NycjJpMW5zcWU5d3EzN2drMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 </div>
 
 ---
